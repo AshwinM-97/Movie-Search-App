@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+  display: none;
+}
+.bg1 {
+  background: #000;
+  color: #fff;
+}
+.bg2 {
+  background: #fff;
+  color: #000;
+}

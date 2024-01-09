@@ -1,0 +1,10 @@
+.movieCard {
+  height: 500px;
+  width: 325px;
+  background: #000;
+  cursor: pointer;
+}
+.cardName {
+  height: 50px;
+  color: #c2e9fb;
+}
